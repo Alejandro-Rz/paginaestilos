@@ -1,0 +1,58 @@
+body{
+    background-color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5em;
+}
+.fondoBlanco{
+    background-color: white;
+}
+.fondoAzul{
+    background-color: rgb(0, 204, 255);
+}
+.fondoNegro{
+    background-color: black;
+}
+.imagen{
+    width: 200px;
+
+}
+.texto1{
+    text-align: center;
+    font-size: 5em;
+    color: orangered;
+}
+.texto2{
+    font-size: 1em;
+    color: white;
+    background-color: blueviolet;
+    text-align: justify;
+}
+.separacion{
+    padding: 1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.texto3{
+    text-align: center;
+}
+.borde{
+    border: 10px solid white;
+    border-radius: 10px;
+}
+.bajo{
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bordeAzul{
+    border: 2px solid  rgb(0, 204, 255);
+    border-radius: 5px; 
+}
+.bordeMorado{
+    border: 2px solid blueviolet ;
+    border-radius: 5px ;
+
+}
+.li{
+    margin-top: 10px;
+}
